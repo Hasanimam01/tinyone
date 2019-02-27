@@ -1,0 +1,122 @@
+body{
+	font-family: 'PT Sans' , sans-serif;
+	color: #898989;
+}
+/*header start*/
+header{
+	background-color: 
+	#fcdb00;
+	padding: 15px 0;
+
+}
+.menubar{
+
+}
+.menubar ul li a{
+	padding: 0 40px !important;
+	font-size: 22px;
+	font-weight: 700;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	background-color:#fcdb00;
+	padding-top: 10px;
+	padding-bottom: 100px;
+
+}
+.inspiration{
+	margin-top: 50px;
+}
+.inspiration h2{
+	font-weight: 700;
+	font-size: 32px;
+	color: #010101;
+
+}
+.inspiration h3{
+	font-weight: 400;
+	font-size: 20px;
+	color: #313841;
+
+}
+.inspiration p{
+	font-size: 16px;
+	color:#555555;
+
+}
+.inspiration i{
+	font-size: 35px;
+	color: #010101;
+	margin-right: 25px;
+}
+.carousel-indicators{
+
+	right: 0;
+	bottom: -75px;
+}
+.carousel-indicators li{
+	box-sizing: content-box;
+	-ms-flex: 0 1 auto;
+	flex: 0 1 auto;
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+/*slider end*/
+/* service start*/
+.service{
+	padding-top: 100px;
+	padding-bottom: 125px;
+}
+.common_title{
+	padding-top: 100px;
+	padding-bottom: 60px;
+
+}
+.common_title h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.common_title p{
+	font-size: 20px;
+	color:#313841;
+	padding: 0 55px;
+}
+.single_item{
+	margin-top: 70px;
+
+}
+.single_content{
+}
+.single_content h1{
+	font-size: 22px;
+	font-weight: 400;
+	color: #010101;
+
+}
+.single_content p{
+font-size: 16px;
+letter-spacing: 1px;
+}
+/*service end*/
+/*contact start*/
+.contact{
+	background-color: #010101;
+}
+.yellow {
+	color: #fcdb00 !important;
+}
+.ash{
+	color: #898989 !important;
+}
+footer{
+background-color: #010101;
+}
+.footer1{
+	color: #010101;
+}
+.footer_option ul li a{
+	color: #fff;
+}
